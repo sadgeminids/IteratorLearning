@@ -1,0 +1,6 @@
+E:\Code\CSharpTestProject\IteratorLearning\IteratorLearning\bin\Debug\IteratorLearning.exe.config
+E:\Code\CSharpTestProject\IteratorLearning\IteratorLearning\bin\Debug\IteratorLearning.exe
+E:\Code\CSharpTestProject\IteratorLearning\IteratorLearning\bin\Debug\IteratorLearning.pdb
+E:\Code\CSharpTestProject\IteratorLearning\IteratorLearning\obj\Debug\IteratorLearning.csprojResolveAssemblyReference.cache
+E:\Code\CSharpTestProject\IteratorLearning\IteratorLearning\obj\Debug\IteratorLearning.exe
+E:\Code\CSharpTestProject\IteratorLearning\IteratorLearning\obj\Debug\IteratorLearning.pdb
